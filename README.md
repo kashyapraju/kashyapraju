@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Fronted**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **rajukashyapstn@gmail.com**
 
